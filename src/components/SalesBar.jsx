@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-const OFFER_EXPIRES = "2099-01-01T23:59:59"
+const OFFER_EXPIRES = "2026-07-03T23:59:59"
 
 function pad(n) {
   return String(n).padStart(2, '0')
